@@ -1,3 +1,3 @@
-1function changeGreeting() {
+2function changeGreeting() {
     document.getElementById('greeting').textContent = "You clicked the button!";
 }
